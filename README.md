@@ -6,11 +6,9 @@
   This is a back end for an e-commerce site.
 
   ## Table of Contents
-  * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Languages](#languages)
   * [Questions](#questions)
 
   ## Installation
